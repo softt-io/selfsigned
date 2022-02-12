@@ -1,9 +1,11 @@
 Generate a self signed x509 certificate from node.js.
 
+**This is an Fork** of jfromaniello/selfsigned that has merged Envek:feature/ca branch for creating chained TLS certificates.
+
 ## Install
 
 ```bash
-  npm install selfsigned
+  npm install softt-io/selfsigned#master
 ```
 
 ## Usage
